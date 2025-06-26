@@ -37,4 +37,7 @@ public:
     // Step 1: Alocate memery for the new node
     Node *newNode = new Node();
 
+    // Step 2: Assign value to the data filed of new node
+    newNode->info = x;
+
     
