@@ -13,4 +13,6 @@ class Node
   Node() 
   {
     leftchild = nullptr; // initialize left child to null
-
+    rightchild = nullptr; // Initialize right child to null
+  }
+};
