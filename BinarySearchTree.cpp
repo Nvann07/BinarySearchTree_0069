@@ -40,4 +40,8 @@ public:
     // Step 2: Assign value to the data filed of new node
     newNode->info = x;
 
-    
+    // Setep 3:Make the left and right child of the new node pointt to NULL
+    newNode->leftchild = nullptr;
+    newNode->rightchild = nullptr;
+
+   
