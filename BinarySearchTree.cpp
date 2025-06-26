@@ -12,6 +12,5 @@ class Node
   // Constructor for the node class
   Node() 
   {
-    leftchild = 
-  }
-}
+    leftchild = nullptr; // initialize left child to null
+
