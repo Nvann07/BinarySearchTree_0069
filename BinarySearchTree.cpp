@@ -5,5 +5,5 @@ using namespace std;
 
 class Node 
 {
-  int i
+  int info;
 }
